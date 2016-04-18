@@ -1,0 +1,57 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.419078 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 148.
+Total: 0.091085 ms (FindLiveObjects: 0.006842 ms CreateObjectMapping: 0.008980 ms MarkObjects: 0.068848 ms  DeleteObjects: 0.006414 ms)
+
+Platform assembly: C:\Users\kuhnerdm\Desktop\Git_Kuhnerdm\red-vs-blue\Builds\RedVsBlue_Data\Managed\System.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.274538 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 201.
+Total: 0.096216 ms (FindLiveObjects: 0.007697 ms CreateObjectMapping: 0.007697 ms MarkObjects: 0.073552 ms  DeleteObjects: 0.006842 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.438637 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 0.124012 ms (FindLiveObjects: 0.011973 ms CreateObjectMapping: 0.008124 ms MarkObjects: 0.100493 ms  DeleteObjects: 0.002565 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.169142 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 0.811215 ms (FindLiveObjects: 0.067993 ms CreateObjectMapping: 0.050460 ms MarkObjects: 0.672235 ms  DeleteObjects: 0.016249 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.351740 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.177039 ms (FindLiveObjects: 0.018815 ms CreateObjectMapping: 0.010690 ms MarkObjects: 0.143256 ms  DeleteObjects: 0.003848 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.600621 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.157368 ms (FindLiveObjects: 0.017532 ms CreateObjectMapping: 0.008980 ms MarkObjects: 0.126151 ms  DeleteObjects: 0.004276 ms)
+
